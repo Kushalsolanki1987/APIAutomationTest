@@ -38,4 +38,6 @@ Developed by Kushal Solanki
 ### Note:
 Install Natural 0.9 plugins for maintaining BDD/ATDD files.
 
+### Test Report:
+![image](https://user-images.githubusercontent.com/54288957/214081573-5375347d-afd5-4579-9abe-f146e5440116.png)
 
